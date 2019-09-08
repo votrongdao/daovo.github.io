@@ -25,6 +25,13 @@ MPORTANT: The use of the pass is subject to the following Terms and Conditions:
 
 To redeem a promo code, visit [microsoftazurepass.com](https://www.microsoftazurepass.com/) and follow these [Azure Pass redemption instructions](https://www.microsoftazurepass.com/Home/HowTo).
 
+### Get started with Azure
+
+Explore our most popular services with quickstarts, samples, and tutorials.
+
+1. Deploy infrastructure ( [Linux](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/) and/or [Window](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/))
+
+
 
 ### Resources
 
