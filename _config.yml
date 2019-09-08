@@ -12,8 +12,8 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Dao Vo # add your name
 author-img: daovo.jpg # add your photo
 about-author: Collaborating with leaders to solve their customer's most challenging problems on Azure. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
+social-twitter: votrongdao# add your Twitter handle
+social-facebook: votrongdao# add your Facebook handle
 social-github: daovo # add your Github handle
 social-linkedin: votrongdao # add your Linkedin handle
 social-email: votrongdao@gmail.com # add your Email address
