@@ -30,10 +30,15 @@ To redeem a promo code, visit [microsoftazurepass.com](https://www.microsoftazur
 Explore our most popular services with quickstarts, samples, and tutorials.
 
 1. Deploy infrastructure ( [Linux](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/) and/or [Window](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/))
-
+2. [SAP Large Instances Architectures on Azure](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/sap/hana-large-instances)
+3. How to start writing the code on [Visual Studio and Cloud Development](https://tutorials.visualstudio.com/)
+4. Trying Web App for Container on [Azure](https://azure.microsoft.com/en-us/services/app-service/containers/)
+5. Deploy a website to Azure with [Azure App Service](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/)
 
 
 ### Resources
 
 There are a lot of resources that you guys can use to access for free to learning Azure 
 1. Microsoft Learn - [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
+2. Microsoft [HandsonLab](https://www.microsoft.com/handsonlabs
+3. [PluralSight](https://www.pluralsight.com/partners/microsoft/azure?aid=7010a000001xDURAA2)
