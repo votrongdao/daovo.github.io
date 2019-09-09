@@ -45,6 +45,8 @@ Explore our most popular services with quickstarts, samples, and tutorials.
 
 ### Resources
 ![Azure Fundamentals Certificate!](/assets/img/course_144_image.png)
+
+
 There are a lot of resources that you guys can use to access for free to learning Azure 
 1. Microsoft Learn - [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
 2. Microsoft [HandsonLab](https://www.microsoft.com/handsonlabs)
