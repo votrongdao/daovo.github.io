@@ -37,11 +37,10 @@ To redeem a promo code, visit [microsoftazurepass.com](https://www.microsoftazur
 Explore our most popular services with quickstarts, samples, and tutorials.
 
 1. Deploy infrastructure ( [Linux](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/) and/or [Window](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/))
-2. [SAP Large Instances Architectures on Azure](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/sap/hana-large-instances)
-3. How to start writing the code on [Visual Studio and Cloud Development](https://tutorials.visualstudio.com/)
-4. [VPN S2S](https://docs.microsoft.com/en-us/azure/vpn-gateway/)
-5. Trying Web App for Container on [Azure](https://azure.microsoft.com/en-us/services/app-service/containers/)
-6. Deploy a website to Azure with [Azure App Service](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/)
+2. How to start writing the code on [Visual Studio and Cloud Development](https://tutorials.visualstudio.com/)
+3. [VPN S2S](https://docs.microsoft.com/en-us/azure/vpn-gateway/)
+4. Trying Web App for Container on [Azure](https://azure.microsoft.com/en-us/services/app-service/containers/)
+5. Deploy a website to Azure with [Azure App Service](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/)
 
 ### Azure Resources
 ![Azure Fundamentals Certificate!](/assets/img/course_144_image.png)
@@ -53,3 +52,4 @@ There are a lot of resources that you guys can use to access for free to learnin
 3. [PluralSight](https://www.pluralsight.com/partners/microsoft/azure?aid=7010a000001xDURAA2)
 4. [Azure Virtual Machines Practices](https://courses.edx.org/asset-v1:Microsoft+AZURE202x+4T2017+type@asset+block@Azure_Virtual_Machines_Practical_Exercises.pdf)
 5. [Azure edge sites at Vietnam](https://azure.microsoft.com/en-us/blog/latency-is-the-new-currency-of-the-cloud-announcing-31-new-azure-edge-sites/)
+6. [SAP Large Instances Architectures on Azure](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/sap/hana-large-instances)
