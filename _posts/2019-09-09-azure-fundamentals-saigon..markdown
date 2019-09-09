@@ -38,7 +38,6 @@ Explore our most popular services with quickstarts, samples, and tutorials.
 4. [VPN S2S](https://docs.microsoft.com/en-us/azure/vpn-gateway/)
 5. Trying Web App for Container on [Azure](https://azure.microsoft.com/en-us/services/app-service/containers/)
 6. Deploy a website to Azure with [Azure App Service](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/)
----
 
 ### Resources
 
