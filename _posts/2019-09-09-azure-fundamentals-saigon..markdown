@@ -42,7 +42,7 @@ Explore our most popular services with quickstarts, samples, and tutorials.
 4. Trying Web App for Container on [Azure](https://azure.microsoft.com/en-us/services/app-service/containers/)
 5. Deploy a website to Azure with [Azure App Service](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/)
 
-### Azure Resources
+### Azure Resources and Discussion
 ![Azure Fundamentals Certificate!](/assets/img/course_144_image.png)
 
 
