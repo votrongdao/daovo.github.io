@@ -12,7 +12,7 @@ tags: [Azure Fundamentals, Saigon]
 
 ### Skype Group
 
-Please join group chat on skype to discuss about [Azure Fundermentals](https://join.skype.com/lc1VwrrddeFO)
+Please join group chat on skype to discuss anything about [Azure](https://join.skype.com/lc1VwrrddeFO)
 
 ### Redeem Promotion Code
 MPORTANT: The use of the pass is subject to the following Terms and Conditions:
@@ -29,10 +29,13 @@ MPORTANT: The use of the pass is subject to the following Terms and Conditions:
 
 To redeem a promo code, visit [microsoftazurepass.com](https://www.microsoftazurepass.com/) and follow these [Azure Pass redemption instructions](https://www.microsoftazurepass.com/Home/HowTo).
 
+### Presentation files - TBU 
+![Azure Fundamentals Certificate!](/assets/img/Microsoft_Certified_Azure_Fundamentals_Featured_Image.png)
+
 ### Get started with Azure
 
 Explore our most popular services with quickstarts, samples, and tutorials.
-
+![Azure Fundamentals Certificate!](/assets/img/course_144_image.png)
 1. Deploy infrastructure ( [Linux](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/) and/or [Window](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/))
 2. [SAP Large Instances Architectures on Azure](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/sap/hana-large-instances)
 3. How to start writing the code on [Visual Studio and Cloud Development](https://tutorials.visualstudio.com/)
