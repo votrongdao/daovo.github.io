@@ -35,7 +35,7 @@ To redeem a promo code, visit [microsoftazurepass.com](https://www.microsoftazur
 ### Get started with Azure
 
 Explore our most popular services with quickstarts, samples, and tutorials.
-![Azure Fundamentals Certificate!](/assets/img/course_144_image.png)
+
 1. Deploy infrastructure ( [Linux](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/) and/or [Window](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/))
 2. [SAP Large Instances Architectures on Azure](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/sap/hana-large-instances)
 3. How to start writing the code on [Visual Studio and Cloud Development](https://tutorials.visualstudio.com/)
@@ -44,7 +44,7 @@ Explore our most popular services with quickstarts, samples, and tutorials.
 6. Deploy a website to Azure with [Azure App Service](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/)
 
 ### Resources
-
+![Azure Fundamentals Certificate!](/assets/img/course_144_image.png)
 There are a lot of resources that you guys can use to access for free to learning Azure 
 1. Microsoft Learn - [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
 2. Microsoft [HandsonLab](https://www.microsoft.com/handsonlabs)
