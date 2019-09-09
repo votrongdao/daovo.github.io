@@ -42,4 +42,4 @@ There are a lot of resources that you guys can use to access for free to learnin
 1. Microsoft Learn - [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
 2. Microsoft [HandsonLab](https://www.microsoft.com/handsonlabs
 3. [PluralSight](https://www.pluralsight.com/partners/microsoft/azure?aid=7010a000001xDURAA2)
-4. [Azure Virtual Machines Practical Exercises](https://courses.edx.org/asset-v1:Microsoft+AZURE202x+4T2017+type@asset+block@Azure_Virtual_Machines_Practical_Exercises.pdf
+4. [Azure Virtual Machines Practical Exercises](https://courses.edx.org/assetv1:Microsoft+AZURE202x+4T2017+type@asset+block@Azure_Virtual_Machines_Practical_Exercises.pdf
