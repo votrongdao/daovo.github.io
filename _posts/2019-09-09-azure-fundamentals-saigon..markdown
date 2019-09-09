@@ -6,6 +6,9 @@ description: Azure Fundamentals
 img: az-900-exam-preparation.png # Add image post (optional)
 tags: [Azure Fundamentals, Saigon]
 ---
+
+(/assets/img/Skype_Picture_2019_09_09T10_11_01_299Z.jpeg)
+
 ### Skype Group
 
 Please join group chat on skype to discuss about [Azure Fundermentals](https://join.skype.com/lc1VwrrddeFO)
