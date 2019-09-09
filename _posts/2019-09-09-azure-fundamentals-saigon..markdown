@@ -7,7 +7,7 @@ img: az-900-exam-preparation.png # Add image post (optional)
 tags: [Azure Fundamentals, Saigon]
 ---
 
-(/assets/img/Skype_Picture_2019_09_09T10_11_01_299Z.jpeg)
+![Azure Fundamentals Training at HCMC!](/assets/img/Skype_Picture_2019_09_09T10_11_01_299Z.jpeg)
 
 ### Skype Group
 
