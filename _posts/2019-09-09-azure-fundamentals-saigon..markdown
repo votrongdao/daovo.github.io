@@ -54,4 +54,5 @@ There are a lot of resources that you guys can use to access for free to learnin
 5. [Azure edge sites at Vietnam](https://azure.microsoft.com/en-us/blog/latency-is-the-new-currency-of-the-cloud-announcing-31-new-azure-edge-sites/)
 6. [SAP Large Instances Architectures on Azure](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/sap/hana-large-instances)
 7. [Highly scalable and secure WordPress website](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/wordpress)
-8. [AKS Operation Best Practices for Multi-Regions](https://docs.microsoft.com/en-us/azure/aks/operator-best-practices-multi-region)
+8. [AKS](https://azure.microsoft.com/en-us/services/kubernetes-service/)
+9. [AKS Operation Best Practices for Multi-Regions](https://docs.microsoft.com/en-us/azure/aks/operator-best-practices-multi-region)
