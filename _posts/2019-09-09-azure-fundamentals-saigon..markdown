@@ -12,7 +12,7 @@ tags: [Azure Fundamentals, Saigon]
 
 ### Skype Group
 
-Please join group chat on skype to discuss anything about [Azure](Closed)
+Please join group chat on skype to discuss anything about [Azure](https://join.skype.com/RPN6eFxVX9TA)
 
 ### Redeem Promotion Code
 MPORTANT: The use of the pass is subject to the following Terms and Conditions:
