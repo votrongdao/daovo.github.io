@@ -53,3 +53,4 @@ There are a lot of resources that you guys can use to access for free to learnin
 4. [Azure Virtual Machines Practices](https://courses.edx.org/asset-v1:Microsoft+AZURE202x+4T2017+type@asset+block@Azure_Virtual_Machines_Practical_Exercises.pdf)
 5. [Azure edge sites at Vietnam](https://azure.microsoft.com/en-us/blog/latency-is-the-new-currency-of-the-cloud-announcing-31-new-azure-edge-sites/)
 6. [SAP Large Instances Architectures on Azure](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/sap/hana-large-instances)
+7. [Highly scalable and secure WordPress website](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/wordpress)
