@@ -56,4 +56,3 @@ There are a lot of resources that you guys can use to access for free to learnin
 7. [Highly scalable and secure WordPress website](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/wordpress)
 8. [AKS](https://azure.microsoft.com/en-us/services/kubernetes-service/)
 9. [AKS Operation Best Practices for Multi-Regions](https://docs.microsoft.com/en-us/azure/aks/operator-best-practices-multi-region)
-10. Support An Quoc Huy - FSoft
